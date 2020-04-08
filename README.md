@@ -9,6 +9,7 @@ Spring 2020
 
       1. Programming Assignment 1
       2. Programming Assignment 2
+      3. Programming Assignment 3
 
     2. CSE 574 - Machine Learning
 
