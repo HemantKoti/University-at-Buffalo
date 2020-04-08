@@ -4,6 +4,6 @@ A private repository to manage code for all the assignments done at University a
 Contents in this Repository
 
 1. Spring 2020 season 
-  a. CSE 589 - Modern Networking Concepts
-    i. Programming Assignment 1
-    ii. Programming Assignment 2
+  1. CSE 589 - Modern Networking Concepts
+    1. Programming Assignment 1
+    2. Programming Assignment 2
