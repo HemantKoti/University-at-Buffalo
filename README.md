@@ -23,4 +23,4 @@ Spring 2020
 
     4. CSE 531 - Analysis of Algorithms
 
-        1. Programming Assignment
+        Programming Assignment
