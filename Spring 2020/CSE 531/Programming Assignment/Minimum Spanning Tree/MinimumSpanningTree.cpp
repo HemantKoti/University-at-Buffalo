@@ -14,13 +14,11 @@
 
 using namespace std;
 
-class minheap
-{
+class minheap {
 public:
-    int operator() (pair<int, int>& a, pair<int, int>& b)
-    {
-        return a > b;
-    }
+	int operator()(pair<int, int> &a, pair<int, int> &b) {
+		return a > b;
+	}
 };
 
 /**

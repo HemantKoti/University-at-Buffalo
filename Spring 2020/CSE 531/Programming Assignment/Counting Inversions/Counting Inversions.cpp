@@ -74,23 +74,11 @@ int main(int argc, char **argv) {
 	size_t n;
 	long m = 0;
 
-	//	ifstream inFile;
-	//	inFile.open("../P1DataPublic/input5.txt");
-	//	if (!inFile) {
-	//		cerr << "Unable to open file" << endl;
-	//		exit(1);
-	//	}
-	//
-	//	inFile >> n;
-
 	cin >> n;
 	vector<int> A(n);
 
 	for (size_t i = 0; i < n; i++)
-		// inFile >> A[i];
 		cin >> A[i];
-
-	// inFile.close();
 
 	A = sort_and_count(A, m);
 	cout << m;
