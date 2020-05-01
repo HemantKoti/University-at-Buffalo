@@ -11,9 +11,17 @@
 #include <vector>
 #include <queue>
 #include <limits>
-#include <functional>
 
 using namespace std;
+
+class minheap
+{
+public:
+    int operator() (pair<int, int>& a, pair<int, int>& b)
+    {
+        return a > b;
+    }
+};
 
 /**
  * MST using Prim's function
@@ -33,7 +41,7 @@ void MSTPrim(vector<pair<int, int>> graph[], bool visited[], int n) {
 	}
 	d[0] = 0;
 
-	priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> Q;
+	priority_queue<pair<int, int>, vector<pair<int, int>>, minheap> Q;
 	Q.push(make_pair(0, 0)); // Q.insert()
 
 	while (!Q.empty()) {
