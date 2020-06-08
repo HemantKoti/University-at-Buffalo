@@ -2,7 +2,7 @@
 
 This repository is a placeholder for all the assignments and projects done at the University at Buffalo.
 
-The actual repositories, which contain the source code are made private so as to honour the code of conduct of the University. It will only be available to potential employers who want to assess my capabilities. If you want to look at the code, email me at kotihemant@gmail.com
+The actual repositories for all the corresponding courses which contain the source code are made private so as to honour the code of conduct of the University. It will only be available to potential employers who want to assess my capabilities. If you want to look at the code, email me at kotihemant@gmail.com
 
 Contents in this Repository.
 
