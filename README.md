@@ -29,3 +29,8 @@ Spring 2020
     4. CSE 531 - Analysis of Algorithms
 
         Programming Assignment
+
+
+Summer 2020
+
+    CSE 510 - Applied Deep Learning
