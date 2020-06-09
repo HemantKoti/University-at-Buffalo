@@ -9,6 +9,7 @@ The actual repositories for all the corresponding courses which contain the sour
 1. CSE 589 - Modern Networking Concepts
 2. CSE 574 - Machine Learning
 3. CSE 573 - Computer Vision
+   - Project 3 - [Visual Welcome Center (publicly available)](https://github.com/HemantKoti/Visual-Welcome-Center.git)
 4. CSE 531 - Analysis of Algorithms
    - [Programming Assignment](https://github.com/HemantKoti/CSE-531.git)
 
