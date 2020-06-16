@@ -12,7 +12,9 @@ The actual repositories for all the corresponding courses which contain the sour
    - [Programming Assignment 2](https://github.com/HemantKoti/CSE-574/tree/master/PA%202)
    - [Programming Assignment 3](https://github.com/HemantKoti/CSE-574/tree/master/PA%203)
 3. CSE 573 - Computer Vision
-   - Project 3 - [Visual Welcome Center (publicly available)](https://github.com/HemantKoti/Visual-Welcome-Center.git)
+   - [Project 1](https://github.com/HemantKoti/CSE-573/tree/master/Project%201)
+   - [Project 2](https://github.com/HemantKoti/CSE-573/tree/master/Project%202)
+   - [Project 3 - Visual Welcome Center (publicly available)](https://github.com/HemantKoti/Visual-Welcome-Center.git)
 4. CSE 531 - Analysis of Algorithms
    - [Programming Assignment](https://github.com/HemantKoti/CSE-531.git)
 
