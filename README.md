@@ -7,6 +7,7 @@ The actual repositories for all the corresponding courses which contain the sour
 ## Spring 2020
 
 1. CSE 589 - Modern Networking Concepts
+   - [Programming Assignment 1](https://github.com/HemantKoti/CSE-589/tree/master/Programming%20Assignment%201)
 2. CSE 574 - Machine Learning
    - [Programming Assignment 1](https://github.com/HemantKoti/CSE-574/tree/master/PA%201)
    - [Programming Assignment 2](https://github.com/HemantKoti/CSE-574/tree/master/PA%202)
