@@ -22,3 +22,9 @@ The actual repositories for all the corresponding courses which contain the sour
 ## Summer 2020
 
 1. CSE 510 - Applied Deep Learning
+   - [Project 1](https://github.com/HemantKoti/CSE-510/tree/master/Project%201)
+   - [Project 2](https://github.com/HemantKoti/CSE-510/tree/master/Project%202)
+   - [Project 3](https://github.com/HemantKoti/CSE-510/tree/master/Project%203)
+   - [Project 4](https://github.com/HemantKoti/CSE-510/tree/master/Project%204)
+   - [Project 5](https://github.com/HemantKoti/CSE-510/tree/master/Project%205)
+   - [Weather Detector (publicly available)](https://github.com/vamshigujjari/Weather-Detector)
