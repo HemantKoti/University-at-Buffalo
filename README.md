@@ -28,3 +28,5 @@ The actual repositories for all the corresponding courses which contain the sour
    - [Project 4](https://github.com/HemantKoti/CSE-510/tree/master/Project%204)
    - [Project 5](https://github.com/HemantKoti/CSE-510/tree/master/Project%205)
    - [Weather Detector (publicly available)](https://github.com/vamshigujjari/Weather-Detector)
+
+## Fall 2020
