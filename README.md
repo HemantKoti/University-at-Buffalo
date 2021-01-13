@@ -39,3 +39,5 @@ This repository is a placeholder for all the assignments and projects done at th
    - [Project 2](https://github.com/HemantKoti/CSE-601/tree/main/Project%202)
    - [Project 3](https://github.com/HemantKoti/CSE-601/tree/main/Project%203)
 4. [CSE 703 - Deep Learning for Visual Recognition with Applications to Medical Imaging Analysis](https://github.com/HemantKoti/CSE-703.git)
+
+## Spring 2021
