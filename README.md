@@ -41,3 +41,5 @@ This repository is a placeholder for all the assignments and projects done at th
 4. [CSE 703 - Deep Learning for Visual Recognition with Applications to Medical Imaging Analysis](https://github.com/HemantKoti/CSE-703.git)
 
 ## Spring 2021
+
+1. [CSE 505 - Fundamentals of Programming Languages](https://github.com/HemantKoti/CSE-505.git)
