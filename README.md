@@ -30,7 +30,7 @@ This repository is a placeholder for all the assignments and projects done at th
 
 ## Fall 2020
 
-1. [CSE 510 - Software Testing (private)](https://github.com/HemantKoti/CSE-410-510.git)
+1. [CSE 510 - Software Testing](https://github.com/HemantKoti/CSE-410-510.git)
 2. CSE 676 - Deep Learning
    - [Project 1](https://github.com/HemantKoti/CSE-676/tree/main/Project%201)
    - [Project 2](https://github.com/HemantKoti/CSE-676/tree/main/Project%202)
