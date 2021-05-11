@@ -46,3 +46,4 @@ This repository is a placeholder for all the assignments and projects done at th
    - [Assignment 1](https://github.com/HemantKoti/CSE-505/tree/main/Assignment%201)
    - [Assignment 2](https://github.com/HemantKoti/CSE-505/tree/main/Assignment%202)
    - [Assignment 3](https://github.com/HemantKoti/CSE-505/tree/main/Assignment%203)
+   - [Assignment 4](https://github.com/HemantKoti/CSE-505/tree/main/Assignment%204)
